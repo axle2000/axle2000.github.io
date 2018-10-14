@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to Music Lounge!</title>
+<head/>
+
+<body>
+<header>
+<h1>Welcome to a place where you can share your music and aapreciate other artist's works1</h1>
+<h6>please follow our norms and guidelines in sharing your music</h6>
+</header>
+<nav>
+<ul>
+<li><ahref=
